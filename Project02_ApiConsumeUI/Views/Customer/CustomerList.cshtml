@@ -1,0 +1,52 @@
+﻿@model List<ResultCustomerDTO>
+
+@{
+    ViewData["Title"] = "Müşteri Listesi";
+    Layout = null;
+}
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Müşteri Listesi</h2>
+
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-action="CreateCustomer" class="btn btn-primary">
+            <i class="bi bi-plus-lg"></i> Yeni Müşteri Ekle
+        </a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Müşteri Adı Soyadı</th>
+                    <th>Müşteri Bakiyesi</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.CustomerId</td>
+                        <td>@item.CustomerName @item.CustomerSurName</td>
+                        <td>@item.CustomerBalance ₺</td>
+                        <td>
+                            <a href="/Customer/UpdateCustomer/@item.CustomerId" class="btn btn-success btn-sm me-2">
+                                <i class="bi bi-pencil-square"></i> Güncelle
+                            </a>
+                            <a href="/Customer/DeleteCustomer/@item.CustomerId" class="btn btn-danger btn-sm" onclick="return confirm('Bu müşteriyi silmek istediğinizden emin misiniz?');">
+                                <i class="bi bi-trash"></i> Sil
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+

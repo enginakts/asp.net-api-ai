@@ -1,0 +1,17 @@
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Project03_RapidApi.exe
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Project03_RapidApi.deps.json
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Project03_RapidApi.runtimeconfig.json
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Project03_RapidApi.dll
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Project03_RapidApi.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.AssemblyInfo.cs
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.dll
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\refint\Project03_RapidApi.dll
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.genruntimeconfig.cache
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\ref\Project03_RapidApi.dll
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project03_RapidApi.csproj.AssemblyReference.cache
+C:\Users\Engin\Desktop\net-api-ai\Project03_RapidApi\obj\Debug\net9.0\Project0.A64FFEF7.Up2Date

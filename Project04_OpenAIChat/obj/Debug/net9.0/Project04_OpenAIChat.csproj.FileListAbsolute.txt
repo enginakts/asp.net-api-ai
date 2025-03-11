@@ -1,0 +1,14 @@
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.AssemblyInfo.cs
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\bin\Debug\net9.0\Project04_OpenAIChat.exe
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\bin\Debug\net9.0\Project04_OpenAIChat.deps.json
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\bin\Debug\net9.0\Project04_OpenAIChat.runtimeconfig.json
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\bin\Debug\net9.0\Project04_OpenAIChat.dll
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\bin\Debug\net9.0\Project04_OpenAIChat.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.dll
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\refint\Project04_OpenAIChat.dll
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\Project04_OpenAIChat.genruntimeconfig.cache
+C:\Users\Engin\Desktop\net-api-ai\Project04_OpenAIChat\obj\Debug\net9.0\ref\Project04_OpenAIChat.dll

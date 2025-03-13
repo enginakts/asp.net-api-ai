@@ -1,0 +1,17 @@
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Project06_DallEImageGeneration.exe
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Project06_DallEImageGeneration.deps.json
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Project06_DallEImageGeneration.runtimeconfig.json
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Project06_DallEImageGeneration.dll
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Project06_DallEImageGeneration.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.csproj.AssemblyReference.cache
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.AssemblyInfo.cs
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project0.ED18683F.Up2Date
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.dll
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\refint\Project06_DallEImageGeneration.dll
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.pdb
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\Project06_DallEImageGeneration.genruntimeconfig.cache
+C:\Users\Engin\Desktop\net-api-ai\Project06_DallEImageGeneration\obj\Debug\net9.0\ref\Project06_DallEImageGeneration.dll
